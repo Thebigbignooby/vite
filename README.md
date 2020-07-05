@@ -508,7 +508,7 @@ See [Contributing Guide](https://github.com/vitejs/vite/tree/master/.github/cont
 
 ## Trivia
 
-[vite](https://en.wiktionary.org/wiki/vite) is the french word for "fast" and is pronounced `/vit/`.
+[vite](https://en.wiktionary.org/wiki/vite) is the french word for "quick" and is pronounced `/vit/`.
 
 ## License
 
